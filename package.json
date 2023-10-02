@@ -1,0 +1,15 @@
+{
+  "name": "book-directory",
+  "version": "1.0.0",
+  "description": "an API using NodeJs that simulates a book directory, It have the basic CRUD operations(Create, Read, Update, Delete) to a bookshelf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "book",
+    "app"
+  ],
+  "author": "Dereje Seifu",
+  "license": "MIT"
+}
